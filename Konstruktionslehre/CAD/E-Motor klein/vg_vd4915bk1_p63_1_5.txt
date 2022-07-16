@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-22032011-076456";"";
+"REFERENCE";"VG.VD4915BK1.P63.1.5";"";
+"TraceParts.PartTitle";"Bürstenloser EC-Motor, Außenläufer mit Planetengetriebe Performax® 63";"";
+"TraceParts.InstanceId";"69-22032011-076456CE55MACKC8E5ATSYN212BQS48";"";
+"DESIGN";"Bürstenloser EC-Motor, Außenläufer (Elektr. integr.) mit Planetengetriebe Performax 63";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ebm-papst St. Georgen GmbH & Co. KG";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"ZEITLAUF:69-22032011-076456";"";
