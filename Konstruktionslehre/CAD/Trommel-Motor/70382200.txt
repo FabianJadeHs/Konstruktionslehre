@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1LE1001-1CA03-4FA4";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"SIEMENS";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70382200";"";
+"TraceParts.PartNumber";"10-12012018-101859";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"5.5kw 2 Pole IE2 132S 400VD/690VY  B5";"";
+"TraceParts.InstanceId";"10-12012018-1018595JHK0LR9NLAERAY6JP2R0V94K";"";
+"TraceParts.PartTitle";"5.5kw 2 Pole IE2 132S 400VD/690VY  B5";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/ALLIED_ELECTRONICS/PSSS_421167/PSS_421223/PSF_421225/";"";
