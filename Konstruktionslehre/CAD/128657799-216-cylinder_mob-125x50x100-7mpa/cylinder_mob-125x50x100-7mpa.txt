@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"OIL_PORT";"PT";"";
+"REFERENCE";"MOB-125X50X100-7Mpa";"";
+"TraceParts.PartVersion";"1.3.4";"";
+"SUPPLIER";"Zhejiang Handa Machinery Co., LTD.";"";
+"TraceParts.PartNumber";"50-15112019-097921";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"MOB Series Light Duty Tie Rod Hydraulic Cylinder MOB-125X50X100-7Mpa";"";
+"OPERATING_PRESSURE";"0.8-7MPa";"";
+"TraceParts.PartTitle";"MOB Series Light Duty Tie Rod Hydraulic Cylinder MOB-125X50X100-7Mpa";"";
+"PAINT";"Blue. Custom colors are available";"";
+"SEAL_BRAND";"DZ";"";
+"CONSTRUCTION";"Tie-rod";"";
+"ROD_TYPE";"Single rod/double rod";"";
+"TraceParts.InstanceId";"50-15112019-0979216PEC57ZDOE9ZHZYYFYIIIH2O9";"";
