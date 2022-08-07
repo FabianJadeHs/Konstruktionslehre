@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"eclas";"23-11-01-90";"";
+"REFERENCE";"GN 1580-M4-8-PL-E";"";
+"TraceParts.PartTitle";"GN 1580 Edelstahl-Schrauben, Hygienic Design";"";
+"TraceParts.InstanceId";"90-25012021-04983778P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartNumber";"90-25012021-049837";"";
+"SUPPLIER";"GANTER";"";
+"DESIGN";"GN 1580 Edelstahl-Schrauben, Hygienic Design";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TraceParts.PartLanguage";"de";"";
