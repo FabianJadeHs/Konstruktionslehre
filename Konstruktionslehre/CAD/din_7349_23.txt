@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-31072008-090889";"";
+"REFERENCE";"DIN 7349 - d1 23 - St";"";
+"STANDARD";"DIN 7349";"";
+"TraceParts.PartTitle";"Unterlagscheibe 23 DIN 7349 - St";"";
+"TraceParts.InstanceId";"10-31072008-090889BKVRAMQNAN8M5Z7U1O3CNUB59";"";
+"DESIGN";"Unterlagscheibe 23 DIN 7349 - St";"";
+"TraceParts.PartVersion";"1.2.8";"";
+"TraceParts.PartLanguage";"de";"";

@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 7349 - d1 21 - St";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Unterlagscheibe 21 DIN 7349 - St";"";
+"TraceParts.PartNumber";"10-31072008-090889";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN 7349";"";
+"TraceParts.InstanceId";"10-31072008-0908898DNMXWOI4DEZ4R2RRM0FN14JY";"";
+"TraceParts.PartTitle";"Unterlegscheiben für Schrauben mit schwerem Klemmschaft";"";
+"TraceParts.PartVersion";"1.2.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-31072008-090889";"";
